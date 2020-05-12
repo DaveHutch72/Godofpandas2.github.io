@@ -1,11 +1,11 @@
 # Site settings
 author: David Hutchison
-title: 
+title: The Pragmatic Programming Barbarian
 header-img: img/home-bg.png
 email: dhutchis68516@gmail.com
 copyright_name: David Hutchison
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A chaotic neutral walk-through of a chaotic neutral (programming) life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Godofpandas2
